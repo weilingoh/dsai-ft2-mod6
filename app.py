@@ -8,7 +8,7 @@ import os
 from groq import Groq
 import sqlite3
 import datetime
-
+#
 #from dotenv import load_dotenv
 #if os.path.exists('.env'):
 #    load_dotenv()
